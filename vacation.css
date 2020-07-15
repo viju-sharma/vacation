@@ -1,0 +1,66 @@
+body {
+  background-image: #a0d2eb;
+;
+}
+p {
+    font-family: Arial;
+  }
+  h1{
+    text-align: center;
+    color: maroon;
+  }
+  .description h5{
+    color: teal;
+  
+  }
+  .title{
+    color: teal;
+  
+  }
+  .uppercase{
+    text-transform: uppercase;
+  }
+  
+  .publish-time {
+    color: gray;
+  }
+  .cursive{
+    font-family: cursive;
+  }
+  .capitalize{
+    text-transform: capitalize;
+  }
+  h2.destination{
+    font-family: cursive;
+  }
+  #banner{
+    margin: auto;
+    background-image: url("https://www.yovizag.com/wp-content/uploads/2017/06/Places-to-Trek-in-Visakhapatnam-WEB.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 500px;
+  }
+
+  #banner .content h3{
+    text-align: center;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: crimson;
+    border-style: dotted;
+    position: "relative";
+    color: royalblue;
+    text-decoration-color: blueviolet;
+    top: 40px;
+    width: 400px;
+    margin: 0 auto;
+    padding: 4px;
+  }
+  hr{
+      margin: 60px auto 70px auto;
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width: 20%;
+    }
